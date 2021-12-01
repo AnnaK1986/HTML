@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>1st HTML assignment</title>
+    </head>
+    <body>
+        <h1>HTML assignment no.1</h1>
+        <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h2>
+        <p>Nunc risus magna, lobortis sit amet dui a, scelerisque fringilla tortor. 
+            Nam vulputate nisi sed nisl ultrices aliquet. Fusce eleifend consectetur ligula id placerat. Aenean vitae commodo erat. 
+            Nam ligula sem, rhoncus nec pharetra eget, dignissim at tortor. Proin id finibus nibh, vitae semper erat.</p>
+
+            <hr>
+
+            <p>Aenean malesuada mi ut lectus ultricies, eget scelerisque eros suscipit. Fusce fringilla mi a magna fermentum, in blandit lectus malesuada. 
+            In aliquam purus lobortis risus rutrum, ut semper leo cursus. Maecenas aliquam sapien lacus, eu mollis diam pharetra ut.</p>
+
+            <hr>
+
+            <p>Vivamus ac mi non sem iaculis sodales. Mauris vel ante dui. Curabitur in luctus magna. Curabitur mollis viverra elementum.</p>
+    </body>
+</html>
